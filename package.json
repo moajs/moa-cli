@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "moa": "index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/moajs/moa-cli.git"
