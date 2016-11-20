@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/moajs/moa-cli/issues"
   },
-  "homepage": "https://github.com/moajs/moa-cli#readme"
+  "homepage": "https://github.com/moajs/moa-cli#readme",
+  "dependencies": {
+    "yargs": "^6.4.0"
+  }
 }
